@@ -1,0 +1,32 @@
+the music_1
+
+ans = 
+
+  struct with fields:
+
+     name: 'nieleihai'
+    sound: [40000¡Á1 double]
+       fs: 8000
+     time: 5
+
+the music_2
+
+ans = 
+
+  struct with fields:
+
+     name: 'nieleihai'
+    sound: [40000¡Á1 double]
+       fs: 8000
+     time: 5
+
+the music_3
+
+ans = 
+
+  struct with fields:
+
+     name: 'nieleihai'
+    sound: [40000¡Á1 double]
+       fs: 8000
+     time: 5

@@ -4,6 +4,6 @@
 
 ```cmd
 net share helloc=C:\
-; net share
+:: net share
 
 ```

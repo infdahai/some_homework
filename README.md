@@ -7,3 +7,5 @@ homework of some classes
 ## reference link
 
 https://github.com/dldaisy/USTC-CS-Courses-Resource
+
+https://github.com/agave233/USTC-Junior-Lab

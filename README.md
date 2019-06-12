@@ -4,6 +4,8 @@ homework of some classes
 ***
 **no some interesting things.**
 
+**ppt support: http://www.ypppt.com/**
+
 ## soot tutorial: 
 
 http://www-labs.iro.umontreal.ca/~dufour/cours/ift6315/docs/soot-tutorial.pdf

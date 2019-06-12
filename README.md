@@ -17,3 +17,9 @@ https://github.com/dldaisy/USTC-CS-Courses-Resource
 https://github.com/agave233/USTC-Junior-Lab
 
 https://github.com/agave233/Verilog_Car
+
+## chromium browser
+
+https://www.chromium.org/Home
+
+https://chromium.googlesource.com/chromium/src/+/master/docs/vscode.md

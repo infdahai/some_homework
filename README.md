@@ -25,3 +25,10 @@ https://github.com/agave233/Verilog_Car
 https://www.chromium.org/Home
 
 https://chromium.googlesource.com/chromium/src/+/master/docs/vscode.md
+
+
+## professor
+
+Jeff Erickson
+
+site: http://jeffe.cs.illinois.edu/

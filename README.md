@@ -9,6 +9,8 @@ ZJT site: https://github.com/OrdinaryCrazy
 
 **ppt support: http://www.ypppt.com/**
 
+**linux book : https://www.linuxprobe.com/docs/LinuxProbe.pdf**
+
 ## soot tutorial: 
 
 http://www-labs.iro.umontreal.ca/~dufour/cours/ift6315/docs/soot-tutorial.pdf

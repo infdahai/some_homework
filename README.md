@@ -11,6 +11,8 @@ ZJT site: https://github.com/OrdinaryCrazy
 
 **linux book : https://www.linuxprobe.com/docs/LinuxProbe.pdf**
 
+# Proj
+
 ## soot tutorial: 
 
 http://www-labs.iro.umontreal.ca/~dufour/cours/ift6315/docs/soot-tutorial.pdf
@@ -31,9 +33,15 @@ https://www.chromium.org/Home
 
 https://chromium.googlesource.com/chromium/src/+/master/docs/vscode.md
 
+## decred
+
+https://teakki.com/p/5c7a0aa3b1029f607606432f
+
 
 ## professor
 
 Jeff Erickson
 
 site: http://jeffe.cs.illinois.edu/
+
+

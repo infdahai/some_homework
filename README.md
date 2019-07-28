@@ -33,6 +33,8 @@ https://www.chromium.org/Home
 
 https://chromium.googlesource.com/chromium/src/+/master/docs/vscode.md
 
+chrome web IDE : https://cs.chromium.org/chromium/src
+
 ## decred
 
 https://teakki.com/p/5c7a0aa3b1029f607606432f

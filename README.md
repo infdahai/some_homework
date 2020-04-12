@@ -116,6 +116,8 @@ site: http://jeffe.cs.illinois.edu/
   27. 不许冷战
 
   28. 捶捶背，揉揉腿
+  
+  29. 贴面膜
 
 
 

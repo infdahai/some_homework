@@ -65,7 +65,7 @@ site: http://jeffe.cs.illinois.edu/
 
   3. 看电影
 
-     1. [感官世界]([https://baike.baidu.com/item/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C/168](https://baike.baidu.com/item/感官世界/168))
+     1. [感官世界]([https://baike.baidu.com/item/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C/168](https://baike.baidu.com/item/感官世界/168)
 
   4. 买吃的
 

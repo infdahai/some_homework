@@ -118,6 +118,8 @@ site: http://jeffe.cs.illinois.edu/
   28. 捶捶背，揉揉腿
   
   29. 贴面膜
+  
+  30. 练字
 
 
 

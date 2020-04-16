@@ -127,6 +127,7 @@ site: http://jeffe.cs.illinois.edu/
   
   33. 喂奶茶
   
+  34. 扎马尾(头发)
 
 
 

@@ -1,8 +1,6 @@
 # some_homework
 homework of some classes
 
-ZJT site: https://github.com/OrdinaryCrazy
-
 **vps: https://www.hostwinds.com/**
 
 **no some interesting things.**
@@ -22,10 +20,6 @@ https://github.com/Sable/soot/wiki/Fundamental-Soot-objects
 ## reference link
 
 https://github.com/dldaisy/USTC-CS-Courses-Resource
-
-https://github.com/agave233/USTC-Junior-Lab
-
-https://github.com/agave233/Verilog_Car
 
 ## chromium browser
 
